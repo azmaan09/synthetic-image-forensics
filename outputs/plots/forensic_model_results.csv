@@ -1,0 +1,4 @@
+model,accuracy,precision,recall,f1,auc
+random_forest,1.0,1.0,1.0,1.0,1.0
+svm,1.0,1.0,1.0,1.0,1.0
+log_reg,1.0,1.0,1.0,1.0,1.0
